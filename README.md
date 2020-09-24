@@ -1,0 +1,2 @@
+# SHE
+Sentiment Hashtag Embedding
