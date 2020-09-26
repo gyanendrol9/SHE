@@ -24,6 +24,14 @@ pip install keras
 pip install gensim
 ```
 
+## Description of Sentiment Lexicon
+The lexicon is auto-generated from the SHE model. 
+'''
+Hashtags are represented as 'H_' instead of using '#' symbol
+Mentions are represented as 'M_' instead of using '@' symbol
+'''
+
+
 ## This work is published in [IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS 2020](https://ieeexplore.ieee.org/abstract/document/8963749)
 
 
