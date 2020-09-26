@@ -11,6 +11,19 @@ semantic as well as sentiment distribution of the hashtags. In particular, SHE l
 <h4>Proposed framework</h4>
 <img src="https://github.com/gloitongbam/SHE/blob/master/SHE.png" alt="Framework">
 <br>
-<h3>This work is published in <a href="https://ieeexplore.ieee.org/abstract/document/8963749">IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS 2020</a></h3>
+
+## Requirement
+The software can run on CPU or GPU, dependency requirements are following:
+
++ python
++ tensorflow
+
+```shell
+pip install numpy
+pip install keras
+pip install gensim
+```
+
+## This work is published in [IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS 2020](https://ieeexplore.ieee.org/abstract/document/8963749)
 
 
